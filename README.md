@@ -4,10 +4,10 @@ Table component
     - edit cell
 
 
-<Table title={title} data={data}>
-    -pass props to diplay data
-    -array of strings for title - ["name", "age",...etc]
-    -array of data for the cells = 
+<Table title={title} data={data}> <br>
+    -pass props to diplay data <br>
+    -array of strings for title - ["name", "age",...etc] <br>
+    -array of data for the cells =  <br>
    [<br/>
       {name:"jack",age:10,id:"0"}, <br/>
        {name:"joh",age:29,id:"1"}, <br/>

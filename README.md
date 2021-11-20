@@ -20,11 +20,11 @@ Table component
 -same title will replace entire column
 
     
-run development build 
+run development build  <br>
     clone repo and cd <br>
     npm install <br>
     npm start <br>
     
-run build 
+run build  <br>
     clone repo and cd <br>
     open index.html <br>

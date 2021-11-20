@@ -17,14 +17,14 @@ Table component
 
 -edit fields
 
--same title will replce entire column
+-same title will replace entire column
 
     
 run development build 
-    clone repo and cd 
-    npm install
-    npm start
+    clone repo and cd <br>
+    npm install <br>
+    npm start <br>
     
 run build 
-    clone repo and cd
-    open index.html
+    clone repo and cd <br>
+    open index.html <br>

@@ -8,11 +8,11 @@ Table component
     -pass props to diplay data
     -array of strings for title - ["name", "age",...etc]
     -array of data for the cells = 
-    [
-        {name:"jack",age:10,id:"0"},
-        {name:"joh",age:29,id:"1"},
-        ...etc
-    ]
+>   [<br/>
+>       {name:"jack",age:10,id:"0"}, <br/>
+>       {name:"joh",age:29,id:"1"}, <br/>
+>       ...etc 
+>    ]
 
 
 -edit fields

@@ -1,7 +1,7 @@
 Table component
-<Table> - creates empty table
-    - add new cell 
-    - edit cell
+<Table> - creates empty table <br>
+    - add new cell <br>
+    - edit cell <br>
 
 
 <Table title={title} data={data}> <br>

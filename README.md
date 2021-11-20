@@ -7,7 +7,7 @@ Table component
 <Table title={title} data={data}> <br>
     -pass props to diplay data <br>
     -array of strings for title - ["name", "age",...etc] <br>
-    -array of data for the cells =  <br>
+    -array of objects for the cells =  <br>
    [<br/>
       {name:"jack",age:10,id:"0"}, <br/>
        {name:"joh",age:29,id:"1"}, <br/>

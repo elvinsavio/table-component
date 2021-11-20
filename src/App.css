@@ -1,0 +1,72 @@
+body{
+  width: 100%;
+  margin: 10px;
+}
+
+.table-cont{
+  margin-bottom: 20px;
+}
+
+.table-header{
+  height: 35px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.header-title-input{
+  text-align: center;
+  border: none;
+  background-color: rgb(240, 240, 240);
+}
+
+.header-title-input:focus{
+  outline: none;
+  background-color: rgb(240, 240, 240);
+}
+
+.table-header-title{
+  width: 100px;
+  border:none;
+  text-align: center;
+  border: 1px solid black;
+  font: bold 18px Arial, Helvetica, sans-serif;
+  margin: 1px;
+}
+
+.table-header-title:focus{
+  outline: none;
+  background-color: rgb(240, 240, 240);
+}
+
+.table-body-row{
+  height: 35px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.table-body-cell{
+  width: 100px;
+  font: 17px Arial, Helvetica, sans-serif;
+  text-align: center;
+  border: 1px solid black;
+  margin: 1px;
+}
+
+.table-body-cell:focus{
+  outline: none;
+  background-color: rgb(240, 240, 240);
+}
+
+
+.add-button {
+  width: 108px;
+  height: 35px;
+  border: none;
+  background-color: rgb(240, 240, 240);
+  font: bold 15px Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 1px;
+}
